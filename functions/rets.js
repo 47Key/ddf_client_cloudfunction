@@ -2,8 +2,8 @@ var { RetsClient, RetsVersion } = require('rets-ddf-client');
  
 const client = new RetsClient({
     url: 'https://data.crea.ca/Login.svc/Login',
-    username: '0sBxf1qckQ1skE2uWfCtXDzz',
-    password: 'RNwPqqvc3f7vokyh0JkbZRSC',
+    username: 'INSERT DDF USERNAME HERE',
+    password: 'INSERT DDF PASS HERE',
     version: RetsVersion.CREA_DDF
 });
 
